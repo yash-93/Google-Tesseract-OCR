@@ -1,0 +1,2 @@
+# Google Tesseract OCR
+ 
